@@ -1,14 +1,14 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,20,25,30&height=200&section=header&text=Muhammad%20Yahya&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Engineer%20%E2%80%A2%20AI%20Builder%20%E2%80%A2%20Software%20Architect&descAlignY=58&descAlign=50&descSize=20" width="100%"/>
-
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3500&pause=1000&color=A78BFA&center=true&vCenter=true&width=900&height=60&lines=🚀+Building+the+Future+of+AI-Native+Development;⚙️+Scalable+Systems+•+Cloud+%26+DevOps+•+Intelligent+Workflows;🧠+AI-Powered+Tools+that+Make+Developers+10×+More+Powerful;🌍+Turning+Complex+Problems+into+Elegant+Scalable+Solutions)](https://git.io/typing-svg)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,20,25,30&height=220&section=header&text=Muhammad%20Yahya&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Engineer%20%E2%80%A2%20AI%20Builder%20%E2%80%A2%20Systems%20Architect&descAlignY=58&descAlign=50&descSize=22" width="100%"/>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3500&pause=1000&color=A78BFA&center=true&vCenter=true&width=900&height=60&lines=🚀+Building+the+Future+of+AI-Native+Development;⚙️+Scalable+Systems+•+Cloud+%26+DevOps+•+Intelligent+Workflows;🧠+AI-Powered+Tools+that+Make+Developers+10×+More+Powerful;🌍+Turning+Complex+Problems+into+Elegant+Scalable+Solutions)](https://git.io/typing-svg)
 
 <br/>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=muhammadyahya&style=for-the-badge&color=6366f1&label=PROFILE+VIEWS)
 &nbsp;
-![Coding](https://img.shields.io/badge/EXPERIENCE-5%2B%20YEARS-6366f1?style=for-the-badge&logo=clockify&logoColor=white)
+![Coding](https://img.shields.io/badge/EXPERIENCE-6%2B%20YEARS-6366f1?style=for-the-badge&logo=clockify&logoColor=white)
 &nbsp;
 ![Open Source](https://img.shields.io/badge/OPEN%20SOURCE-ENTHUSIAST-a78bfa?style=for-the-badge&logo=opensourceinitiative&logoColor=white)
 &nbsp;
@@ -22,7 +22,7 @@
 
 <!-- ═══════════════════ ABOUT ME ═══════════════════ -->
 
-<img align="right" alt="Coding GIF" width="400" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
+<img align="right" alt="Coding GIF" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
 
 ## ⚡ `whoami`
 
@@ -42,7 +42,7 @@ const Muhammad_Yahya = {
   currentlyBuilding: {
     project:  "AI-Native IDE 🛠️",
     goal:     "Compete with Cursor & Antigravity",
-    stage:    "Active Development — 2025",
+    stage:    "Active Development — 2026",
   },
 
   mission:    "Build tools that make developers 10× more powerful",
@@ -61,9 +61,13 @@ const Muhammad_Yahya = {
 <br clear="right"/>
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=muhammadyahya&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&border_radius=14&bg_color=0d1117&title_color=a78bfa&icon_color=6366f1&text_color=c9d1d9&border_color=30363d&hide_border=false" height="175" alt="GitHub Stats"/>
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadyahya&layout=compact&langs_count=10&theme=midnight-purple&border_radius=14&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9&border_color=30363d" height="175" alt="Top Languages"/>
+  <a href="https://github.com/muhammadyahya">
+    <img src="https://github-readme-stats.vercel.app/api?username=muhammadyahya&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&border_radius=14&bg_color=0d1117&title_color=a78bfa&icon_color=6366f1&text_color=c9d1d9&border_color=30363d&hide_border=false" height="175" alt="GitHub Stats" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/muhammadyahya">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadyahya&layout=compact&langs_count=10&theme=midnight-purple&border_radius=14&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9&border_color=30363d" height="175" alt="Top Languages" />
+  </a>
 </div>
 
 ---
@@ -78,7 +82,7 @@ const Muhammad_Yahya = {
 
 > **Building a next-generation AI-native Integrated Development Environment**
 > designed to challenge and compete with modern AI coding platforms like **Cursor** and **Antigravity**.
-> A platform where every keystroke is augmented by intelligence.
+> A platform where every keystroke is augmented by intelligence, running on the latest 2026 models.
 
 </div>
 
@@ -88,20 +92,20 @@ const Muhammad_Yahya = {
 
 ### 🧠 Intelligence Layer
 - **AI-Assisted Coding** — context-aware completions, refactors & explanations
-- **Multi-Model Orchestration** — GPT-4o, Claude 3.5, Gemini Pro unified
-- **Semantic Codebase Understanding** — AI that knows your entire project
+- **Multi-Model Orchestration** — GPT-5, Claude 3.5 Opus, Gemini 3.1 Pro unified
+- **Semantic Codebase Understanding** — AI that knows your entire project natively
 - **Agentic Workflows** — autonomous multi-step code execution
-- **Smart Debugging** — AI-powered root cause analysis
+- **Smart Debugging** — AI-powered proactive root cause analysis
 
 </td>
 <td width="50%" valign="top">
 
 ### 🚀 Platform Pillars
 - **Zero-Friction DX** — blazing fast, minimal, opinionated UI
-- **Real-Time Multiplayer Editing** — built-in collaboration layer
-- **Integrated CI/CD** — deploy pipelines from within the editor
-- **Extensible Plugin Engine** — developer-first ecosystem
-- **Language Server Protocol** — universal language support
+- **Real-Time Multiplayer Editing** — built-in robust collaboration layer
+- **Integrated CI/CD** — deploy pipelines directly from within the editor
+- **Extensible Plugin Engine** — developer-first dynamic ecosystem
+- **Language Server Protocol** — universal, seamless language support
 
 </td>
 </tr>
@@ -111,7 +115,7 @@ const Muhammad_Yahya = {
 
 ![Status](https://img.shields.io/badge/STATUS-ACTIVELY%20BUILDING-22c55e?style=for-the-badge&logo=rocket&logoColor=white)
 &nbsp;
-![Stage](https://img.shields.io/badge/STAGE-ALPHA%20DEV-f59e0b?style=for-the-badge&logo=gitbook&logoColor=white)
+![Stage](https://img.shields.io/badge/STAGE-BETA%20DEV-f59e0b?style=for-the-badge&logo=gitbook&logoColor=white)
 &nbsp;
 ![Category](https://img.shields.io/badge/CATEGORY-AI%20DEV%20TOOLS-6366f1?style=for-the-badge&logo=openai&logoColor=white)
 &nbsp;
@@ -271,34 +275,12 @@ are as important as the logic beneath.
 
 ### 🤖 AI, ML & Automation
 
-![OpenAI](https://img.shields.io/badge/OpenAI-GPT--4o-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Anthropic](https://img.shields.io/badge/Anthropic-Claude%203.5-7c3aed?style=for-the-badge&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-GPT--5-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Anthropic](https://img.shields.io/badge/Anthropic-Claude%203.5%20Opus-7c3aed?style=for-the-badge&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-Agents-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-![Gemini](https://img.shields.io/badge/Google-Gemini%20Pro-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/HuggingFace-Transformers-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![Gemini](https://img.shields.io/badge/Google-Gemini%203.1%20Pro-4285F4?style=for-the-badge&logo=google&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-Automation-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-</div>
-
----
-
-<!-- ═══════════════════ DEVELOPMENT WORKSPACE (NEW SECTION) ═══════════════════ -->
-
-## 💻 Development Workspace
-
-<div align="center">
-
-> *My daily driver setup for writing clean code and shipping fast.*
-
-| Category | Tool / Tech |
-| :--- | :--- |
-| **Operating System** | Linux (Ubuntu) / WSL2 on Windows 11 |
-| **Code Editor** | VS Code (Neovim keybindings) & Cursor |
-| **Terminal** | Windows Terminal + Alacritty + Zsh (Oh-My-Zsh) |
-| **Theme & Font** | Midnight Purple / Tokyo Night • Fira Code |
-| **AI Assistants**| GitHub Copilot, Claude 3.5 Sonnet, GPT-4o |
-| **API Client** | Postman / Insomnia / Bruno |
-| **Browser** | Arc / Brave / Chrome Developer Edition |
 
 </div>
 
@@ -365,9 +347,9 @@ are as important as the logic beneath.
 
 <!-- ═══════════════════ WAKATIME / CODING STATS ═══════════════════ -->
 
-## ⏱️ Weekly Coding Activity
+## ⏱️ Weekly Coding Activity & Analytics
 
-> *Real-time insights from my development workflow — tracked via WakaTime.*
+> *Real-time insights from my development workflow — tracked directly via WakaTime & GitHub.*
 
 <div align="center">
 
@@ -389,10 +371,10 @@ Other        █░░░░░░░░░░░░░░░░░░░░    
 ```
 🕐 Weekly Metrics Snapshot
 ┌────────────────────────────────────────────────────┐
-│  💻  Average / Day          7 hrs 30 mins          │
-│  🔥  Best Day               12 hrs 20 mins         │
-│  📅  Total This Week        52 hrs 45 mins         │
-│  🚀  Most Used Editor       VS Code + Neovim       │
+│  💻  Average / Day          8 hrs 15 mins          │
+│  🔥  Best Day               14 hrs 30 mins         │
+│  📅  Total This Week        58 hrs 45 mins         │
+│  🚀  Most Used Editor       Cursor + Neovim        │
 │  🏆  Top Language           TypeScript             │
 │  🌐  Top Project            AI-Native IDE          │
 └────────────────────────────────────────────────────┘
@@ -406,17 +388,17 @@ Other        █░░░░░░░░░░░░░░░░░░░░    
 
 <!-- ═══════════════════ GITHUB STATS ═══════════════════ -->
 
-## 📊 GitHub Analytics & Activity
+## 📊 GitHub Performance & Streak
 
 <div align="center">
 
-<img width="98%" src="https://streak-stats.demolab.com/?user=muhammadyahya&theme=midnight-purple&background=0d1117&ring=6366f1&fire=a78bfa&currStreakLabel=a78bfa&border=30363d&stroke=30363d&sideLabels=c9d1d9&currStreakNum=ffffff&sideNums=c9d1d9&dates=6b7280" alt="GitHub Streak Stats" />
+<img width="98%" src="https://github-readme-streak-stats.herokuapp.com/?user=muhammadyahya&theme=midnight-purple&background=0d1117&ring=6366f1&fire=a78bfa&currStreakLabel=a78bfa&border=30363d&stroke=30363d&sideLabels=c9d1d9&currStreakNum=ffffff&sideNums=c9d1d9&dates=6b7280" alt="Streak Stats"/>
 
 <br/>
 
 ### 📈 Contribution Graph
 
-[![Muhammad Yahya's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=muhammadyahya&bg_color=0d1117&color=a78bfa&line=6366f1&point=ffffff&area=true&area_color=6366f130&hide_border=true&custom_title=Muhammad%20Yahya%20—%20Contribution%20Timeline)](https://github.com/muhammadyahya/github-readme-activity-graph)
+[![Muhammad Yahya's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=muhammadyahya&bg_color=0d1117&color=a78bfa&line=6366f1&point=ffffff&area=true&area_color=6366f130&hide_border=true&custom_title=Muhammad%20Yahya%20—%20Contribution%20Timeline)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <br/>
 
@@ -426,7 +408,7 @@ Other        █░░░░░░░░░░░░░░░░░░░░    
 
 <br/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=muhammadyahya&theme=monokai" width="98%" alt="GitHub Profile Summary Cards" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=muhammadyahya&theme=monokai" width="98%" alt="Summary Cards"/>
 
 </div>
 
@@ -443,7 +425,7 @@ Other        █░░░░░░░░░░░░░░░░░░░░    
 ### 🧠 AI-Native IDE
 > *Next-generation AI-first development environment*
 
-- 🔮 Multi-model AI orchestration (GPT-4o / Claude / Gemini)
+- 🔮 Multi-model AI orchestration (GPT-5 / Claude 3.5 Opus / Gemini 3.1 Pro)
 - ⚡ Semantic codebase understanding & refactoring
 - 🤖 Agentic multi-step autonomous code execution
 - 🌐 Real-time multiplayer collaboration
@@ -552,21 +534,64 @@ Other        █░░░░░░░░░░░░░░░░░░░░    
 
 ---
 
+<!-- ═══════════════════ NEW SECTION: WORKSPACE & SETUP ═══════════════════ -->
+
+## 🖥️ Workstation & Development Setup
+
+> *My daily driver for writing code, training models, and deploying systems.*
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🛠️ Hardware Stack
+```yaml
+✦ Primary Machine: Apple M3 Max MacBook Pro
+✦ Memory / Storage: 64GB Unified RAM / 2TB NVMe
+✦ Workstation: Custom Liquid-Cooled AI Rig
+  - GPU: Dual NVIDIA RTX 4090s (24GB VRAM each)
+  - CPU: AMD Ryzen Threadripper PRO 7995WX
+  - RAM: 128GB DDR5
+✦ Displays: 2x 32" 4K LG UltraFine Ergo
+✦ Peripherals: Keychron Q1 Pro (Custom Switches)
+```
+
+</td>
+<td width="50%" valign="top">
+
+### 💻 Software Environment
+```yaml
+✦ OS: macOS Sonoma + Ubuntu 26.04 LTS (WSL2)
+✦ Primary Editor: Cursor / Neovim
+✦ Terminal: Ghostty / WezTerm
+✦ Shell Environment: ZSH + Oh My Zsh
+✦ AI Assistants: GitHub Copilot, Gemini 3.1 Pro
+✦ API Testing: Postman / Bruno
+✦ Version Control: Git / GitHub / GitLab
+✦ Design: Figma (Premium)
+```
+
+</td>
+</tr>
+</table>
+
+---
+
 <!-- ═══════════════════ CURRENT FOCUS ═══════════════════ -->
 
-## 🎯 Current Focus & 2025 Roadmap
+## 🎯 Current Focus & 2026 Roadmap
 
 <div align="center">
 
 ```
 ╔══════════════════════════════════════════════════════════════════════╗
-║                    🗺️  2025 ENGINEERING ROADMAP                      ║
+║                    🗺️  2026 ENGINEERING ROADMAP                      ║
 ╠════════════════════════════╦═════════════════════════════════════════╣
-║  🚀 Q2 — AI-Native IDE     ║  Ship closed beta to early users        ║
-║  🧠 Q2 — LLM Agents        ║  Advanced multi-step agentic systems    ║
-║  ☁️  Q3 — Cloud Native      ║  Kubernetes + ECS production scale      ║
-║  🔬 Q3 — LSP Research       ║  Language Server Protocol deep dive     ║
-║  📦 Q4 — Open Source        ║  Release OSS developer tools library   ║
+║  🚀 Q1 — AI-Native IDE     ║  Ship V1.0 to production and scaling    ║
+║  🧠 Q2 — LLM Agents        ║  Advanced multi-step autonomous systems ║
+║  ☁️  Q2 — Cloud Native      ║  Kubernetes + ECS production scale      ║
+║  🔬 Q3 — Next-Gen AI Models║  Integration of Gemini 3.1 Pro & GPT-5  ║
+║  📦 Q4 — Open Source        ║  Release OSS developer tools library    ║
 ║  🌍 Q4 — Scale              ║  Distributed systems for global reach   ║
 ╚════════════════════════════╩═════════════════════════════════════════╝
 ```
@@ -579,12 +604,12 @@ Other        █░░░░░░░░░░░░░░░░░░░░    
 
 | Skill / Technology | Progress | Status |
 |---|---|---|
-| Kubernetes & Container Orchestration | `████████░░` 80% | 🔄 Active |
-| Advanced LLM Agent Architectures | `███████░░░` 70% | 🔄 Active |
-| Language Server Protocol (LSP) | `█████░░░░░` 50% | 🔄 Exploring |
-| Rust for Systems Programming | `████░░░░░░` 40% | 🔜 Growing |
-| WebAssembly (WASM) | `██░░░░░░░░` 20% | 🔜 Next Up |
-| Compiler Design & Parsing | `███░░░░░░░` 30% | 📖 Studying |
+| Kubernetes & Container Orchestration | `█████████░` 90% | 🔄 Active |
+| Advanced LLM Agent Architectures | `████████░░` 80% | 🔄 Active |
+| Language Server Protocol (LSP) | `███████░░░` 70% | 🔄 Active |
+| Rust for Systems Programming | `██████░░░░` 60% | 🔜 Growing |
+| WebAssembly (WASM) | `████░░░░░░` 40% | 🔜 Next Up |
+| Next-Gen AI Context Processing | `█████████░` 90% | 📖 Mastering |
 
 </div>
 
@@ -623,7 +648,7 @@ Production-ready infrastructure — VPS setup, CI/CD pipelines, Nginx configs, S
 
 **🤖 AI Integrations**
 
-Intelligent features powered by GPT, Claude, and Gemini — from smart chatbots to agentic automation pipelines.
+Intelligent features powered by GPT-5, Claude 3.5 Opus, and Gemini 3.1 Pro — from smart chatbots to agentic automation pipelines.
 
 </td>
 </tr>
@@ -687,7 +712,7 @@ Intelligent features powered by GPT, Claude, and Gemini — from smart chatbots 
 
 ---
 
-<!-- ═══════════════════ FOOTER & SNAKE ANIMATION ═══════════════════ -->
+<!-- ═══════════════════ FOOTER ═══════════════════ -->
 
 <div align="center">
 
@@ -707,9 +732,8 @@ Intelligent features powered by GPT, Claude, and Gemini — from smart chatbots 
 ![Powered by](https://img.shields.io/badge/Powered%20by-Obsession%20%26%20Coffee-7c3aed?style=for-the-badge)
 
 <br/>
-<br/>
 
-<!-- Realtime GitHub Contribution Snake Animation -->
+<!-- Fixed Snake Animation using modern <picture> tag for both dark and light modes -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/muhammadyahya/muhammadyahya/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/muhammadyahya/muhammadyahya/output/github-contribution-grid-snake.svg">
