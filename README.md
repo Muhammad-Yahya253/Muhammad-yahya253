@@ -342,16 +342,13 @@ are as important as the logic beneath.
 
 <!-- ═══════════════════ WAKATIME / CODING STATS ═══════════════════ -->
 
-## ⏱️ Weekly Coding Activity & Analytics
+## 📊 Language Distribution (GitHub Real-time)
 
-> *Real-time insights from my development workflow — tracked directly via WakaTime & GitHub.*
+> *Real-time analysis of my technology stack across all public repositories.*
 
 <div align="center">
 
-[![wakatime](https://wakatime.com/badge/user/muhammadyahya.svg?style=for-the-badge)](https://wakatime.com/@muhammadyahya)
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
+<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=muhammadyahya&layout=donut&langs_count=6&theme=midnight-purple&border_radius=14&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9&border_color=30363d&hide_border=false" alt="Language Distribution" />
 
 </div>
 
@@ -375,7 +372,7 @@ are as important as the logic beneath.
 
 ### 🏆 GitHub Achievement Trophies
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=muhammadyahya&theme=radical&no-frame=true&no-bg=true&margin-w=10&column=7&rank=SECRET,SSS,SS,S,AAA,AA,A)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=muhammadyahya&theme=radical&no-frame=true&no-bg=true&margin-w=10&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 <br/>
 
@@ -575,12 +572,12 @@ are as important as the logic beneath.
 
 | Skill / Technology | Progress | Status |
 |---|---|---|
-| Kubernetes & Container Orchestration | `█████████░` 90% | 🔄 Active |
-| Advanced LLM Agent Architectures | `████████░░` 80% | 🔄 Active |
-| Language Server Protocol (LSP) | `███████░░░` 70% | 🔄 Active |
-| Rust for Systems Programming | `██████░░░░` 60% | 🔜 Growing |
-| WebAssembly (WASM) | `████░░░░░░` 40% | 🔜 Next Up |
-| Next-Gen AI Context Processing | `█████████░` 90% | 📖 Mastering |
+| Kubernetes & Container Orchestration | `█████████▓` 95% | 🔄 Active |
+| Advanced LLM Agent Architectures | `█████████░` 90% | 🔄 Active |
+| Language Server Protocol (LSP) | `████████▓░` 85% | 🔄 Active |
+| Rust for Systems Programming | `████████░░` 80% | 🔜 Growing |
+| WebAssembly (WASM) | `██████▓░░░` 65% | 🔜 Next Up |
+| Next-Gen AI Context Processing | `█████████▓` 95% | 📖 Mastering |
 
 </div>
 
@@ -687,7 +684,7 @@ Intelligent features powered by GPT-5.5, Claude 4.7, and Gemini 3.1 Pro — from
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,20,25,30&height=150&section=footer&text=Let%27s%20Engineer%20Something%20Extraordinary&fontSize=22&fontColor=a78bfa&animation=twinkling&fontAlignY=68&desc=Muhammad%20Yahya%20—%20Built%20with%20Precision%2C%20Shipped%20with%20Purpose&descAlignY=88&descSize=13&descColor=6b7280" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,20,25,30&height=220&section=footer&text=Let%27s%20Engineer%20Something%20Extraordinary&fontSize=30&fontColor=ffffff&animation=twinkling&fontAlignY=40&desc=Muhammad%20Yahya%20—%20Built%20with%20Precision%2C%20Shipped%20with%20Purpose&descAlignY=60&descSize=16&descColor=c9d1d9" width="100%"/>
 
 <br/>
 
@@ -705,6 +702,7 @@ Intelligent features powered by GPT-5.5, Claude 4.7, and Gemini 3.1 Pro — from
 <br/>
 
 <!-- Pac-Man Contribution Graph (GitHub Marketplace Action) -->
+<!-- 💡 Setup Tip: Add the 'abozanona/pacman-contribution-graph' action to your repository workflows so it generates the SVG below! -->
 <img src="https://raw.githubusercontent.com/muhammadyahya/muhammadyahya/output/pacman-contribution-graph.svg" alt="Pac-Man Contribution Graph" width="100%" />
 
 </div>
