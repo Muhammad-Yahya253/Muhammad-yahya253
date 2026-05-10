@@ -61,13 +61,8 @@ const Muhammad_Yahya = {
 <br clear="right"/>
 
 <div align="center">
-  <a href="https://github.com/muhammadyahya">
-    <img src="https://github-readme-stats.vercel.app/api?username=muhammadyahya&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&border_radius=14&bg_color=0d1117&title_color=a78bfa&icon_color=6366f1&text_color=c9d1d9&border_color=30363d&hide_border=false" height="175" alt="GitHub Stats" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/muhammadyahya">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadyahya&layout=compact&langs_count=10&theme=midnight-purple&border_radius=14&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9&border_color=30363d" height="175" alt="Top Languages" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=muhammadyahya&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&border_radius=14&bg_color=0d1117&title_color=a78bfa&icon_color=6366f1&text_color=c9d1d9&border_color=30363d&hide_border=false" height="175" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadyahya&layout=compact&langs_count=10&theme=midnight-purple&border_radius=14&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9&border_color=30363d" height="175" alt="Top Languages" />
 </div>
 
 ---
@@ -92,7 +87,7 @@ const Muhammad_Yahya = {
 
 ### 🧠 Intelligence Layer
 - **AI-Assisted Coding** — context-aware completions, refactors & explanations
-- **Multi-Model Orchestration** — GPT-5, Claude 3.5 Opus, Gemini 3.1 Pro unified
+- **Multi-Model Orchestration** — GPT-5.5, Claude 4.7, Gemini 3.1 Pro unified
 - **Semantic Codebase Understanding** — AI that knows your entire project natively
 - **Agentic Workflows** — autonomous multi-step code execution
 - **Smart Debugging** — AI-powered proactive root cause analysis
@@ -275,8 +270,8 @@ are as important as the logic beneath.
 
 ### 🤖 AI, ML & Automation
 
-![OpenAI](https://img.shields.io/badge/OpenAI-GPT--5-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Anthropic](https://img.shields.io/badge/Anthropic-Claude%203.5%20Opus-7c3aed?style=for-the-badge&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-GPT--5.5-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Anthropic](https://img.shields.io/badge/Anthropic-Claude%204.7-7c3aed?style=for-the-badge&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-Agents-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/HuggingFace-Transformers-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 ![Gemini](https://img.shields.io/badge/Google-Gemini%203.1%20Pro-4285F4?style=for-the-badge&logo=google&logoColor=white)
@@ -356,31 +351,7 @@ are as important as the logic beneath.
 [![wakatime](https://wakatime.com/badge/user/muhammadyahya.svg?style=for-the-badge)](https://wakatime.com/@muhammadyahya)
 
 <!--START_SECTION:waka-->
-```text
-TypeScript   ████████████░░░░░░░░░   48.3 %
-Python       ██████░░░░░░░░░░░░░░░   22.7 %
-JavaScript   ████░░░░░░░░░░░░░░░░░   14.1 %
-Dart         ██░░░░░░░░░░░░░░░░░░░    7.6 %
-C#           █░░░░░░░░░░░░░░░░░░░░    4.8 %
-Other        █░░░░░░░░░░░░░░░░░░░░    2.5 %
-```
 <!--END_SECTION:waka-->
-
-<br/>
-
-```
-🕐 Weekly Metrics Snapshot
-┌────────────────────────────────────────────────────┐
-│  💻  Average / Day          8 hrs 15 mins          │
-│  🔥  Best Day               14 hrs 30 mins         │
-│  📅  Total This Week        58 hrs 45 mins         │
-│  🚀  Most Used Editor       Cursor + Neovim        │
-│  🏆  Top Language           TypeScript             │
-│  🌐  Top Project            AI-Native IDE          │
-└────────────────────────────────────────────────────┘
-```
-
-> 💡 **Setup tip:** Connect your [WakaTime](https://wakatime.com) account and add the `waka-readme` GitHub Action to auto-update the stats above with live data.
 
 </div>
 
@@ -425,7 +396,7 @@ Other        █░░░░░░░░░░░░░░░░░░░░    
 ### 🧠 AI-Native IDE
 > *Next-generation AI-first development environment*
 
-- 🔮 Multi-model AI orchestration (GPT-5 / Claude 3.5 Opus / Gemini 3.1 Pro)
+- 🔮 Multi-model AI orchestration (GPT-5.5 / Claude 4.7 / Gemini 3.1 Pro)
 - ⚡ Semantic codebase understanding & refactoring
 - 🤖 Agentic multi-step autonomous code execution
 - 🌐 Real-time multiplayer collaboration
@@ -590,7 +561,7 @@ Other        █░░░░░░░░░░░░░░░░░░░░    
 ║  🚀 Q1 — AI-Native IDE     ║  Ship V1.0 to production and scaling    ║
 ║  🧠 Q2 — LLM Agents        ║  Advanced multi-step autonomous systems ║
 ║  ☁️  Q2 — Cloud Native      ║  Kubernetes + ECS production scale      ║
-║  🔬 Q3 — Next-Gen AI Models║  Integration of Gemini 3.1 Pro & GPT-5  ║
+║  🔬 Q3 — Next-Gen AI Models║  Integration of Gemini 3.1 Pro & GPT-5.5║
 ║  📦 Q4 — Open Source        ║  Release OSS developer tools library    ║
 ║  🌍 Q4 — Scale              ║  Distributed systems for global reach   ║
 ╚════════════════════════════╩═════════════════════════════════════════╝
@@ -648,7 +619,7 @@ Production-ready infrastructure — VPS setup, CI/CD pipelines, Nginx configs, S
 
 **🤖 AI Integrations**
 
-Intelligent features powered by GPT-5, Claude 3.5 Opus, and Gemini 3.1 Pro — from smart chatbots to agentic automation pipelines.
+Intelligent features powered by GPT-5.5, Claude 4.7, and Gemini 3.1 Pro — from smart chatbots to agentic automation pipelines.
 
 </td>
 </tr>
@@ -733,11 +704,7 @@ Intelligent features powered by GPT-5, Claude 3.5 Opus, and Gemini 3.1 Pro — f
 
 <br/>
 
-<!-- Fixed Snake Animation using modern <picture> tag for both dark and light modes -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/muhammadyahya/muhammadyahya/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/muhammadyahya/muhammadyahya/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/muhammadyahya/muhammadyahya/output/github-contribution-grid-snake.svg">
-</picture>
+<!-- Fixed Snake Animation -->
+<img src="https://raw.githubusercontent.com/muhammadyahya/muhammadyahya/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Grid Snake Animation" width="100%" />
 
 </div>
