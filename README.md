@@ -22,7 +22,7 @@
 
 <!-- ═══════════════════ ABOUT ME ═══════════════════ -->
 
-<img align="right" alt="Coding GIF" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
+<img align="right" alt="Coding GIF" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
 
 ## ⚡ `whoami`
 
@@ -61,8 +61,8 @@ const Muhammad_Yahya = {
 <br clear="right"/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=muhammadyahya&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&border_radius=14&bg_color=0d1117&title_color=a78bfa&icon_color=6366f1&text_color=c9d1d9&border_color=30363d&hide_border=false" height="175" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadyahya&layout=compact&langs_count=10&theme=midnight-purple&border_radius=14&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9&border_color=30363d" height="175" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=muhammadyahya&show_icons=true&theme=midnight-purple&border_radius=14&bg_color=0d1117&title_color=a78bfa&icon_color=6366f1&text_color=c9d1d9&border_color=30363d&hide_border=false" height="175" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=muhammadyahya&layout=compact&langs_count=10&theme=midnight-purple&border_radius=14&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9&border_color=30363d" height="175" alt="Top Languages" />
 </div>
 
 ---
@@ -704,7 +704,7 @@ Intelligent features powered by GPT-5.5, Claude 4.7, and Gemini 3.1 Pro — from
 
 <br/>
 
-<!-- Fixed Snake Animation -->
-<img src="https://raw.githubusercontent.com/muhammadyahya/muhammadyahya/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Grid Snake Animation" width="100%" />
+<!-- Pac-Man Eating Animation -->
+<img src="https://raw.githubusercontent.com/Gioni06/Gioni06/master/assets/pacman-divider.gif" alt="Pac-Man Eating" width="100%" />
 
 </div>
