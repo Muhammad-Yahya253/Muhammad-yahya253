@@ -22,7 +22,7 @@
 
 <!-- ═══════════════════ ABOUT ME ═══════════════════ -->
 
-<img align="right" alt="Coding GIF" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
+<img align="right" alt="Coding GIF" width="400" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
 
 ## ⚡ `whoami`
 
@@ -61,9 +61,9 @@ const Muhammad_Yahya = {
 <br clear="right"/>
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=muhammadyahya&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&border_radius=14&bg_color=0d1117&title_color=a78bfa&icon_color=6366f1&text_color=c9d1d9&border_color=30363d&hide_border=false" height="175"/>
+<img src="https://github-readme-stats.vercel.app/api?username=muhammadyahya&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&border_radius=14&bg_color=0d1117&title_color=a78bfa&icon_color=6366f1&text_color=c9d1d9&border_color=30363d&hide_border=false" height="175" alt="GitHub Stats"/>
 &nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadyahya&layout=compact&langs_count=10&theme=midnight-purple&border_radius=14&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9&border_color=30363d" height="175"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadyahya&layout=compact&langs_count=10&theme=midnight-purple&border_radius=14&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9&border_color=30363d" height="175" alt="Top Languages"/>
 </div>
 
 ---
@@ -282,6 +282,28 @@ are as important as the logic beneath.
 
 ---
 
+<!-- ═══════════════════ DEVELOPMENT WORKSPACE (NEW SECTION) ═══════════════════ -->
+
+## 💻 Development Workspace
+
+<div align="center">
+
+> *My daily driver setup for writing clean code and shipping fast.*
+
+| Category | Tool / Tech |
+| :--- | :--- |
+| **Operating System** | Linux (Ubuntu) / WSL2 on Windows 11 |
+| **Code Editor** | VS Code (Neovim keybindings) & Cursor |
+| **Terminal** | Windows Terminal + Alacritty + Zsh (Oh-My-Zsh) |
+| **Theme & Font** | Midnight Purple / Tokyo Night • Fira Code |
+| **AI Assistants**| GitHub Copilot, Claude 3.5 Sonnet, GPT-4o |
+| **API Client** | Postman / Insomnia / Bruno |
+| **Browser** | Arc / Brave / Chrome Developer Edition |
+
+</div>
+
+---
+
 <!-- ═══════════════════ EXPERTISE DOMAINS ═══════════════════ -->
 
 ## 🧩 Core Engineering Domains
@@ -388,13 +410,13 @@ Other        █░░░░░░░░░░░░░░░░░░░░    
 
 <div align="center">
 
-<img width="98%" src="https://github-readme-streak-stats.herokuapp.com/?user=muhammadyahya&theme=midnight-purple&background=0d1117&ring=6366f1&fire=a78bfa&currStreakLabel=a78bfa&border=30363d&stroke=30363d&sideLabels=c9d1d9&currStreakNum=ffffff&sideNums=c9d1d9&dates=6b7280"/>
+<img width="98%" src="https://streak-stats.demolab.com/?user=muhammadyahya&theme=midnight-purple&background=0d1117&ring=6366f1&fire=a78bfa&currStreakLabel=a78bfa&border=30363d&stroke=30363d&sideLabels=c9d1d9&currStreakNum=ffffff&sideNums=c9d1d9&dates=6b7280" alt="GitHub Streak Stats" />
 
 <br/>
 
 ### 📈 Contribution Graph
 
-[![Muhammad Yahya's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=muhammadyahya&bg_color=0d1117&color=a78bfa&line=6366f1&point=ffffff&area=true&area_color=6366f130&hide_border=true&custom_title=Muhammad%20Yahya%20—%20Contribution%20Timeline)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Muhammad Yahya's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=muhammadyahya&bg_color=0d1117&color=a78bfa&line=6366f1&point=ffffff&area=true&area_color=6366f130&hide_border=true&custom_title=Muhammad%20Yahya%20—%20Contribution%20Timeline)](https://github.com/muhammadyahya/github-readme-activity-graph)
 
 <br/>
 
@@ -404,7 +426,7 @@ Other        █░░░░░░░░░░░░░░░░░░░░    
 
 <br/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=muhammadyahya&theme=monokai" width="98%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=muhammadyahya&theme=monokai" width="98%" alt="GitHub Profile Summary Cards" />
 
 </div>
 
@@ -665,7 +687,7 @@ Intelligent features powered by GPT, Claude, and Gemini — from smart chatbots 
 
 ---
 
-<!-- ═══════════════════ FOOTER ═══════════════════ -->
+<!-- ═══════════════════ FOOTER & SNAKE ANIMATION ═══════════════════ -->
 
 <div align="center">
 
@@ -685,7 +707,13 @@ Intelligent features powered by GPT, Claude, and Gemini — from smart chatbots 
 ![Powered by](https://img.shields.io/badge/Powered%20by-Obsession%20%26%20Coffee-7c3aed?style=for-the-badge)
 
 <br/>
+<br/>
 
-![Snake animation](https://raw.githubusercontent.com/muhammadyahya/muhammadyahya/output/github-contribution-grid-snake-dark.svg)
+<!-- Realtime GitHub Contribution Snake Animation -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/muhammadyahya/muhammadyahya/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/muhammadyahya/muhammadyahya/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/muhammadyahya/muhammadyahya/output/github-contribution-grid-snake.svg">
+</picture>
 
 </div>
