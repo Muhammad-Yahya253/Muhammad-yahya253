@@ -22,7 +22,7 @@
 
 <!-- ═══════════════════ ABOUT ME ═══════════════════ -->
 
-<img align="right" alt="Coding GIF" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
+<img align="right" alt="Premium Coding GIF" width="500" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif"/>
 
 ## ⚡ `whoami`
 
@@ -61,8 +61,8 @@ const Muhammad_Yahya = {
 <br clear="right"/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=muhammadyahya&show_icons=true&theme=midnight-purple&border_radius=14&bg_color=0d1117&title_color=a78bfa&icon_color=6366f1&text_color=c9d1d9&border_color=30363d&hide_border=false" height="175" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=muhammadyahya&layout=compact&langs_count=10&theme=midnight-purple&border_radius=14&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9&border_color=30363d" height="175" alt="Top Languages" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=muhammadyahya&show_icons=true&theme=midnight-purple&border_radius=14&bg_color=0d1117&title_color=a78bfa&icon_color=6366f1&text_color=c9d1d9&border_color=30363d&hide_border=false" height="175" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs?username=muhammadyahya&layout=compact&langs_count=10&theme=midnight-purple&border_radius=14&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9&border_color=30363d" height="175" alt="Top Languages" />
 </div>
 
 ---
@@ -704,7 +704,7 @@ Intelligent features powered by GPT-5.5, Claude 4.7, and Gemini 3.1 Pro — from
 
 <br/>
 
-<!-- Pac-Man Eating Animation -->
-<img src="https://raw.githubusercontent.com/Gioni06/Gioni06/master/assets/pacman-divider.gif" alt="Pac-Man Eating" width="100%" />
+<!-- Pac-Man Contribution Graph (GitHub Marketplace Action) -->
+<img src="https://raw.githubusercontent.com/muhammadyahya/muhammadyahya/output/pacman-contribution-graph.svg" alt="Pac-Man Contribution Graph" width="100%" />
 
 </div>
