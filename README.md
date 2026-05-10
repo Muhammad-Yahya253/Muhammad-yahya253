@@ -1,708 +1,600 @@
-<!-- ╔══════════════════════════════════════════════════════════════════════════════════════════╗ -->
-<!-- ║                                                                                          ║ -->
-<!-- ║   ███╗   ███╗██╗   ██╗██╗  ██╗ █████╗ ███╗   ███╗███╗   ███╗ █████╗ ██████╗             ║ -->
-<!-- ║   ████╗ ████║██║   ██║██║  ██║██╔══██╗████╗ ████║████╗ ████║██╔══██╗██╔══██╗            ║ -->
-<!-- ║   ██╔████╔██║██║   ██║███████║███████║██╔████╔██║██╔████╔██║███████║██║  ██║            ║ -->
-<!-- ║   ██║╚██╔╝██║██║   ██║██╔══██║██╔══██║██║╚██╔╝██║██║╚██╔╝██║██╔══██║██║  ██║            ║ -->
-<!-- ║   ██║ ╚═╝ ██║╚██████╔╝██║  ██║██║  ██║██║ ╚═╝ ██║██║ ╚═╝ ██║██║  ██║██████╔╝            ║ -->
-<!-- ║   ╚═╝     ╚═╝ ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝     ╚═╝╚═╝     ╚═╝╚═╝  ╚═╝╚═════╝             ║ -->
-<!-- ║                                                                                          ║ -->
-<!-- ║   PREMIUM GITHUB PROFILE README | MUHAMMAD YAHYA | FULL STACK DEVELOPER                 ║ -->
-<!-- ║                                                                                          ║ -->
-<!-- ╚══════════════════════════════════════════════════════════════════════════════════════════╝ -->
+# Muhammad Yahya
 
-<br />
+```
+╔═══════════════════════════════════════════════════════════════════╗
+║                    ELITE FULL STACK ENGINEER                     ║
+║         AI Systems • Cloud Infrastructure • Scalable Apps        ║
+╚═══════════════════════════════════════════════════════════════════╝
+```
+
+---
+
+## 👨‍💼 Professional Summary
+
+Full Stack Software Engineer with deep expertise in modern technologies, AI systems, cloud infrastructure, and scalable application architecture. Specialized in building production-grade applications across web, mobile, and cloud platforms with a focus on performance, security, and user experience.
+
+**Philosophy**: Building intelligent, scalable systems that solve complex problems through clean code, modern architecture, and continuous innovation.
+
+---
+
+## 🛠️ Technical Expertise
+
+### **Backend Development**
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=.net&logoColor=white)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=flat-square&logo=.net&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+
+### **Frontend Development**
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+### **Mobile Development**
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![React Native](https://img.shields.io/badge/React%20Native-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+
+### **UI/UX & Frontend Systems**
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white)
+![Material UI](https://img.shields.io/badge/Material%20UI-007FFF?style=flat-square&logo=mui&logoColor=white)
+![ShadCN UI](https://img.shields.io/badge/ShadCN%20UI-000000?style=flat-square&logo=shadcnui&logoColor=white)
+![DaisyUI](https://img.shields.io/badge/DaisyUI-1AD1A5?style=flat-square&logo=daisyui&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34C26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+### **AI & Machine Learning**
+![OpenAI](https://img.shields.io/badge/OpenAI%20APIs-412991?style=flat-square&logo=openai&logoColor=white)
+![Gemini](https://img.shields.io/badge/Google%20Gemini-8E75B6?style=flat-square&logo=google&logoColor=white)
+![LLM Integration](https://img.shields.io/badge/LLM%20Integration-FF6B6B?style=flat-square)
+![AI Automation](https://img.shields.io/badge/AI%20Automation-4ECDC4?style=flat-square)
+
+### **Cloud & DevOps**
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088F0?style=flat-square&logo=github-actions&logoColor=white)
+![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0080FF?style=flat-square&logo=digitalocean&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-2088F0?style=flat-square)
+
+### **Databases & Tools**
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-13AA52?style=flat-square&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+---
+
+## 🚀 Core Competencies
+
+```
+┌─────────────────────────────────────────────────────────────────┐
+│ FULL STACK ARCHITECTURE                                         │
+│ ✓ End-to-end application design and implementation             │
+│ ✓ Scalable microservices architecture                          │
+│ ✓ Database design and optimization                             │
+│ ✓ RESTful & GraphQL API development                           │
+└─────────────────────────────────────────────────────────────────┘
+```
+
+```
+┌─────────────────────────────────────────────────────────────────┐
+│ CLOUD & INFRASTRUCTURE                                          │
+│ ✓ Containerization and Docker ecosystem                        │
+│ ✓ CI/CD pipeline automation                                    │
+│ ✓ VPS management and deployment                                │
+│ ✓ Linux server administration                                  │
+│ ✓ Production-grade infrastructure                              │
+└─────────────────────────────────────────────────────────────────┘
+```
+
+```
+┌─────────────────────────────────────────────────────────────────┐
+│ AI SYSTEMS & INTEGRATION                                        │
+│ ✓ LLM application development                                  │
+│ ✓ AI workflow automation                                       │
+│ ✓ Intelligent system design                                    │
+│ ✓ API integration & smart applications                         │
+└─────────────────────────────────────────────────────────────────┘
+```
+
+```
+┌─────────────────────────────────────────────────────────────────┐
+│ MODERN FRONTEND ENGINEERING                                     │
+│ ✓ Advanced component architecture                              │
+│ ✓ Performance optimization                                     │
+│ ✓ Responsive & accessible UI systems                           │
+│ ✓ Modern state management                                      │
+└─────────────────────────────────────────────────────────────────┘
+```
+
+```
+┌─────────────────────────────────────────────────────────────────┐
+│ MOBILE APPLICATION DEVELOPMENT                                  │
+│ ✓ Cross-platform development                                   │
+│ ✓ Native & hybrid app architecture                             │
+│ ✓ Mobile optimization & performance                            │
+└─────────────────────────────────────────────────────────────────┘
+```
+
+---
+
+## 📊 Development Workflow
+
+```
+CONCEPT & PLANNING
+        ↓
+   UI/UX DESIGN
+        ↓
+FRONTEND DEVELOPMENT
+        ↓
+BACKEND ARCHITECTURE
+        ↓
+   API DEVELOPMENT
+        ↓
+  AI INTEGRATION
+        ↓
+TESTING & OPTIMIZATION
+        ↓
+   DOCKERIZATION
+        ↓
+CI/CD AUTOMATION
+        ↓
+ CLOUD DEPLOYMENT
+        ↓
+MONITORING & SCALING
+```
+
+---
+
+## 💡 Currently Working On
+
+- **AI-Powered SaaS Platforms** — Intelligent systems with LLM integration
+- **Full Stack Applications** — Modern web applications with scalable architecture
+- **Cloud-Native Solutions** — Containerized applications with DevOps automation
+- **Mobile Ecosystem** — Cross-platform mobile applications
+- **Infrastructure Automation** — Advanced deployment and scaling systems
+- **AI Workflows** — Automated intelligent workflows and smart applications
+
+---
+
+## 🎯 Professional Expertise Matrix
+
+### **Full Stack Web Development**
+- Complete end-to-end application architecture and design
+- Frontend & backend integration with modern frameworks
+- RESTful API development and GraphQL implementation
+- Database design, optimization, and management
+- Complex state management across applications
+- Real-time data synchronization
+- Responsive and adaptive UI implementation
+- Performance optimization and code quality
+
+### **Backend Development Mastery**
+- **.NET & ASP.NET Core** — Enterprise-grade applications, microservices
+- **Node.js** — High-performance server-side JavaScript applications
+- **Laravel** — Modern PHP framework expertise with advanced patterns
+- **Python** — Backend systems, automation, data processing
+- API development (REST, GraphQL, gRPC)
+- Server architecture and optimization
+- Database management and query optimization
+- Authentication and authorization systems
+
+### **Frontend Development Excellence**
+- **React** — Advanced component architecture, hooks, state management
+- **Next.js** — Full-stack React framework, SSR, static generation
+- **Vue.js** — Progressive framework for interactive interfaces
+- **Angular** — Enterprise-scale applications and complex systems
+- **TypeScript** — Type-safe development, advanced patterns
+- **JavaScript** — Modern ES6+, asynchronous programming
+- DOM manipulation and browser APIs
+- Performance optimization and bundling
+- Accessibility (WCAG) and semantic HTML
+
+### **Mobile Application Development**
+- **Flutter** — Cross-platform mobile apps with native performance
+- **React Native** — JavaScript-based mobile applications
+- **Kotlin** — Native Android development
+- Mobile UI/UX best practices
+- Push notifications and background services
+- Offline-first architecture
+- Platform-specific optimizations
+- App store deployment and distribution
+
+### **UI/UX & Frontend Systems Design**
+- **Tailwind CSS** — Utility-first CSS framework expertise
+- **Material UI (MUI)** — Google Material Design implementation
+- **ShadCN UI** — Modern component library integration
+- **DaisyUI** — Tailwind-based UI components
+- Responsive design and mobile-first approach
+- CSS Grid, Flexbox, advanced layouts
+- Accessibility and semantic markup
+- Advanced component architecture
+- Design systems and pattern libraries
+- Premium user experience design
+- Animation and micro-interactions
+- Dark mode and theme customization
+
+### **Cloud & DevOps Infrastructure**
+- **Docker** — Containerization, image optimization, networking
+- **GitHub Actions** — CI/CD pipeline automation
+- **CI/CD Pipelines** — Continuous integration and deployment
+- **Linux Server Management** — Ubuntu, CentOS, server administration
+- **VPS Deployment** — Server setup, configuration, maintenance
+- **DigitalOcean** — Cloud infrastructure and droplet management
+- **Hostinger VPS** — Virtual private server management
+- Infrastructure scaling and load balancing
+- Database replication and backup systems
+- Monitoring and logging systems
+- Security hardening and SSL/TLS management
+- Automated deployment processes
+
+### **AI Systems & LLM Integration**
+- **OpenAI API Integration** — GPT models, embeddings, fine-tuning
+- **Google Gemini API** — Advanced AI model integration
+- **LLM Applications** — Conversational AI, chatbots
+- **AI Workflow Automation** — Intelligent automation systems
+- **Prompt Engineering** — Optimized AI interactions
+- **AI-Powered Features** — Smart recommendations, predictions
+- **Vector Databases** — Embeddings and semantic search
+- **Retrieval-Augmented Generation (RAG)** — Enhanced AI responses
+- **AI-Assisted Development** — Coding automation tools
+- **Smart Application Architecture** — AI-first system design
+
+### **Database & Data Management**
+- **PostgreSQL** — Advanced SQL, optimization, indexing
+- **MongoDB** — NoSQL database design and management
+- **MySQL** — Relational database optimization
+- **Redis** — Caching, session management, real-time data
+- **Database Architecture** — Schema design, normalization
+- **Query Optimization** — Performance tuning and analysis
+- **Data Modeling** — Complex data structures
+- **Database Security** — Encryption, access control
+- **Backup & Recovery** — Data protection strategies
+
+### **Enterprise Software Development**
+- Microservices architecture design
+- Scalable system architecture
+- Enterprise-grade security implementation
+- High-availability systems
+- Distributed systems design
+- Load balancing strategies
+- Caching strategies (Redis, Memcached)
+- Rate limiting and API throttling
+- Transaction management and consistency
+
+### **Development Tools & Platforms**
+- **Git** — Version control, branching strategies, collaboration
+- **GitHub** — Repository management, workflows, project management
+- **Visual Studio Code** — Advanced editor configuration
+- **JetBrains IDEs** — Professional development environment
+- **npm/yarn** — Package management
+- **Docker Desktop** — Local containerization
+- **Postman** — API testing and documentation
+- **Figma Integration** — Design to development workflow
+
+### **Performance & Optimization**
+- Frontend performance optimization (Core Web Vitals)
+- Backend API optimization
+- Database query optimization
+- Caching strategies (browser, server, CDN)
+- Code splitting and lazy loading
+- Image optimization and responsive images
+- Bundle size analysis and optimization
+- Load time optimization
+- Scalability and horizontal scaling
+
+### **Security & Best Practices**
+- HTTPS/TLS/SSL implementation
+- Data encryption (at rest and in transit)
+- Authentication (JWT, OAuth, session-based)
+- Authorization and role-based access control
+- SQL injection prevention
+- XSS and CSRF protection
+- Security headers implementation
+- API security
+- Data privacy and compliance
+- Regular security audits
+
+### **Testing & Quality Assurance**
+- Unit testing (Jest, Vitest, xUnit)
+- Integration testing
+- End-to-end testing (Cypress, Selenium)
+- API testing and validation
+- Performance testing
+- Load testing
+- Test coverage analysis
+- Debugging strategies
+- Error handling and logging
+
+### **Modern Development Practices**
+- Agile methodology and Scrum
+- Test-driven development (TDD)
+- Clean code principles
+- SOLID principles
+- Design patterns implementation
+- Code reviews and refactoring
+- Documentation (API docs, README, code comments)
+- Version control workflows
+- Continuous learning and innovation
+
+### **Scalable Architecture Design**
+- Microservices architecture
+- Serverless computing concepts
+- Load balancing and distribution
+- Database scaling strategies
+- Caching layers and optimization
+- Message queues and event-driven architecture
+- API gateway patterns
+- Service-oriented architecture
+- Containerized deployment
+- Kubernetes knowledge (orchestration)
+
+### **Desktop Application Development**
+- **Electron** — Cross-platform desktop applications
+- Native application optimization
+- System integration and APIs
+- Auto-update mechanisms
+- Packaging and distribution
+
+### **Collaborative Development**
+- Team leadership and mentoring
+- Code review and feedback
+- Documentation and knowledge sharing
+- Agile team collaboration
+- Sprint planning and execution
+- Cross-functional team communication
+- Technical problem-solving in teams
+- Knowledge transfer and onboarding
+
+---
+
+## 📊 Comprehensive Professional Overview
+
+| **Category** | **Expertise Level** | **Key Skills** |
+|---|---|---|
+| **Full Stack Development** | Expert | React, Node.js, .NET, Laravel, databases |
+| **AI & Machine Learning** | Advanced | LLM APIs, OpenAI, Gemini, AI automation |
+| **Cloud Infrastructure** | Expert | Docker, GitHub Actions, CI/CD, VPS, DevOps |
+| **Mobile Development** | Advanced | Flutter, React Native, Kotlin, cross-platform |
+| **Frontend Engineering** | Expert | React, Next.js, TypeScript, Tailwind, MUI |
+| **Backend Engineering** | Expert | ASP.NET Core, Node.js, Laravel, Python |
+| **DevOps & Deployment** | Expert | Docker, GitHub Actions, Linux, automation |
+| **UI/UX Design Systems** | Advanced | Tailwind, ShadCN, Material UI, responsive design |
+| **Database Management** | Advanced | PostgreSQL, MongoDB, MySQL, Redis |
+| **Security & Compliance** | Advanced | Authentication, encryption, best practices |
+| **Performance Optimization** | Expert | Frontend & backend optimization, caching |
+| **System Architecture** | Expert | Scalable systems, microservices, design patterns |
+
+---
+
+## 📈 GitHub Statistics
 
 <div align="center">
 
-<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
-<!--                        ANIMATED NEON HEADER BANNER                             -->
-<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=muhammadyahya&show_icons=true&theme=dark&hide_border=true)](https://github.com/muhammadyahya)
 
-<img src="https://capsule-render.vercel.app/api?type=venom&height=300&text=MUHAMMAD%20YAHYA&fontSize=70&color=0:667eea,50:764ba2,100:f093fb&fontColor=ffffff&stroke=ffffff&strokeWidth=2&animation=blinking&fontAlignY=55&desc=Full%20Stack%20Developer%20|%20App%20Developer%20|%20AI%20Engineer&descSize=20&descAlignY=75" width="100%" alt="Neon Header" />
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=muhammadyahya&theme=dark&hide_border=true)](https://github.com/muhammadyahya)
 
-<br /><br />
-
-<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
-<!--                        ANIMATED TYPING HEADLINE                                -->
-<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
-
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=40&duration=3000&pause=800&color=667EEA&center=true&vCenter=true&width=900&height=80&lines=Hi+%F0%9F%91%8B%2C+I'm+Muhammad+Yahya;Full+Stack+Developer+%F0%9F%9A%80;Mobile+App+Developer+%F0%9F%93%B1;AI+%26+ML+Engineer+%F0%9F%A4%96;UI%2FUX+Designer+%F0%9F%8E%A8;Open+Source+Contributor+%F0%9F%8C%9F" alt="Animated Headline" />
-</a>
-
-<br />
-
-<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
-<!--                        SUBTITLE TYPING ANIMATION                               -->
-<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
-
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=16&duration=4000&pause=1500&color=00F2FE&center=true&vCenter=true&width=750&lines=I+transform+complex+problems+into+elegant+digital+solutions;Building+scalable+applications+with+modern+technologies;Passionate+about+clean+architecture+%26+great+user+experiences;Always+learning%2C+always+building%2C+always+growing+%F0%9F%8C%B1" alt="Subtitle Animation" />
-</a>
-
-<br /><br />
-
-<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
-<!--                        PROFILE STATISTICS BADGES                               -->
-<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
-
-<img src="https://komarev.com/ghpvc/?username=muhammadyahya&label=PROFILE+VIEWS&color=667eea&style=for-the-badge&logo=eye&logoColor=white" alt="Profile Views" />
-<img src="https://img.shields.io/github/followers/muhammadyahya?label=FOLLOWERS&style=for-the-badge&color=764ba2&logo=github&logoColor=white" alt="Followers" />
-<img src="https://img.shields.io/github/stars/muhammadyahya?label=TOTAL+STARS&style=for-the-badge&color=f093fb&logo=github&logoColor=white" alt="Stars" />
-<img src="https://img.shields.io/badge/AVAILABLE%20FOR%20HIRE-YES-brightgreen?style=for-the-badge&logo=briefcase&logoColor=white&color=43e97b" alt="Available for Hire" />
-
-<br /><br />
-
-<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
-<!--                        3D CODING ANIMATION GIF                                -->
-<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
-
-<img src="https://raw.githubusercontent.com/7oSkaaa/7oSkaaa/main/Images/about_me.gif" width="300px" alt="Coding Animation" />
-
-<br /><br />
-
-<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
-<!--                        DECORATIVE ANIMATED DIVIDER                             -->
-<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="Rainbow Divider" />
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadyahya&layout=compact&theme=dark&hide_border=true)](https://github.com/muhammadyahya)
 
 </div>
 
-<br />
+---
 
-<!-- ╔═══════════════════════════════════════════════════════════════════════════════╗ -->
-<!-- ║                          ABOUT ME SECTION                                     ║ -->
-<!-- ╚═══════════════════════════════════════════════════════════════════════════════╝ -->
+## 🏆 Featured Projects
 
-<h2 align="center">
-  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30"> 
-  <span style="color: #667eea;">About Me</span>
-  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30">
-</h2>
+```
+╔════════════════════════════════════════════════════════════════╗
+║ AI-POWERED SAAS PLATFORM                                      ║
+║ ────────────────────────────────────────────────────────────  ║
+║ • Full Stack: React + Node.js/Next.js                         ║
+║ • AI Integration: LLM APIs, smart workflows                   ║
+║ • Infrastructure: Docker, GitHub Actions, DigitalOcean        ║
+║ • Database: PostgreSQL, Redis caching                         ║
+╚════════════════════════════════════════════════════════════════╝
+```
+
+```
+╔════════════════════════════════════════════════════════════════╗
+║ CLOUD-NATIVE FULL STACK APPLICATION                           ║
+║ ────────────────────────────────────────────────────────────  ║
+║ • Frontend: React/Vue with Tailwind CSS                       ║
+║ • Backend: ASP.NET Core / Laravel                             ║
+║ • DevOps: Docker, CI/CD pipelines, automated deployment       ║
+║ • Scaling: Load balancing, database optimization              ║
+╚════════════════════════════════════════════════════════════════╝
+```
+
+```
+╔════════════════════════════════════════════════════════════════╗
+║ CROSS-PLATFORM MOBILE APPLICATION                             ║
+║ ────────────────────────────────────────────────────────────  ║
+║ • Framework: Flutter / React Native                           ║
+║ • Backend: Node.js / .NET APIs                                ║
+║ • Features: Real-time sync, offline support                   ║
+║ • Distribution: App stores deployment                         ║
+╚════════════════════════════════════════════════════════════════╝
+```
+
+```
+╔════════════════════════════════════════════════════════════════╗
+║ AI AUTOMATION DASHBOARD                                       ║
+║ ────────────────────────────────────────────────────────────  ║
+║ • Frontend: React with advanced UI components                 ║
+║ • AI Core: LLM integration, workflow automation               ║
+║ • Backend: Scalable microservices architecture                ║
+║ • Deployment: Containerized cloud infrastructure              ║
+╚════════════════════════════════════════════════════════════════╝
+```
+
+```
+╔════════════════════════════════════════════════════════════════╗
+║ DEVOPS & INFRASTRUCTURE TOOLS                                 ║
+║ ────────────────────────────────────────────────────────────  ║
+║ • Automation: GitHub Actions, CI/CD pipelines                 ║
+║ • Infrastructure: Docker, Kubernetes, Linux servers           ║
+║ • Deployment: DigitalOcean, VPS management                    ║
+║ • Monitoring: Performance tracking, scaling systems           ║
+╚════════════════════════════════════════════════════════════════╝
+```
+
+```
+╔════════════════════════════════════════════════════════════════╗
+║ MODERN UI/UX COMPONENT SYSTEM                                 ║
+║ ────────────────────────────────────────────────────────────  ║
+║ • Design System: ShadCN UI, Material UI integration           ║
+║ • Technology: React, TypeScript, Tailwind CSS                 ║
+║ • Architecture: Reusable component library                    ║
+║ • Performance: Optimized rendering, accessibility            ║
+╚════════════════════════════════════════════════════════════════╝
+```
+
+---
+
+## 🤖 AI & Innovation Focus
+
+**Intelligent Systems Development**
+- LLM-powered applications with OpenAI and Gemini APIs
+- AI workflow automation and smart task systems
+- Intelligent integration frameworks
+- AI-assisted development tools
+
+**Smart Application Architecture**
+- Conversational AI systems
+- Automated intelligent workflows
+- AI-powered data analysis
+- Smart automation pipelines
+
+---
+
+## 🐳 DevOps & Cloud Engineering
+
+**Container & Orchestration**
+- Docker containerization and optimization
+- GitHub Actions workflow automation
+- CI/CD pipeline development
+- Production infrastructure management
+
+**Infrastructure & Deployment**
+- VPS setup and server management
+- Linux system administration
+- DigitalOcean and cloud platform expertise
+- Automated scaling and deployment systems
+
+**Production Systems**
+- High-availability architecture
+- Performance monitoring and optimization
+- Security and compliance
+- Continuous integration and deployment
+
+---
+
+## 💼 Professional Strengths
+
+```
+┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
+┃  TECHNICAL EXCELLENCE                                      ┃
+┃  • Production-grade code quality and architecture         ┃
+┃  • Performance optimization and scalability               ┃
+┃  • Security best practices and compliance                 ┃
+┃  • Maintainable and well-documented systems              ┃
+┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
+```
+
+```
+┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
+┃  MODERN TECHNOLOGY ADOPTION                               ┃
+┃  • Latest frameworks and best practices                   ┃
+┃  • Cutting-edge development tools and platforms           ┃
+┃  • Continuous learning and innovation                     ┃
+┃  • Industry-leading architectural patterns                ┃
+┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
+```
+
+```
+┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
+┃  PROBLEM SOLVING & INNOVATION                            ┃
+┃  • Complex system design and implementation               ┃
+┃  • Technical challenge resolution                         ┃
+┃  • Strategic architecture planning                        ┃
+┃  • Innovative solution development                        ┃
+┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
+```
+
+```
+┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
+┃  FULL STACK MASTERY                                       ┃
+┃  • Seamless frontend-backend integration                  ┃
+┃  • Database design and optimization                       ┃
+┃  • API development and management                         ┃
+┃  • End-to-end application delivery                        ┃
+┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
+```
+
+---
+
+## 🔥 Development Philosophy
+
+> *Building intelligent, scalable systems that solve real-world problems through clean architecture, modern technology, and continuous innovation.*
+
+**Core Principles:**
+- **Excellence in Execution** — Production-grade quality in every project
+- **Scalable Architecture** — Design for growth and performance
+- **Innovation First** — Embracing cutting-edge technologies and methodologies
+- **User-Centric Design** — Building intuitive and powerful experiences
+- **Continuous Improvement** — Always learning, always evolving
+
+---
+
+## 📞 Connect & Collaborate
+
+```
+╔═══════════════════════════════════════════════════════════════╗
+║              LET'S BUILD SOMETHING EXCEPTIONAL               ║
+╚═══════════════════════════════════════════════════════════════╝
+```
+
+| Platform | Connection |
+|----------|-----------|
+| **GitHub** | [@muhammadyahya](https://github.com/muhammadyahya) |
+| **LinkedIn** | [Muhammad Yahya](https://linkedin.com/in/muhammadyahya) |
+| **Email** | [contact@example.com](mailto:contact@example.com) |
+| **Portfolio** | [your-portfolio.com](https://your-portfolio.com) |
+| **Twitter** | [@muhammadyahya](https://twitter.com/muhammadyahya) |
+| **Discord** | Available for collaboration |
+
+---
+
+## 🌟 Personal Statement
+
+Passionate about building intelligent, scalable systems that make a real impact. With expertise spanning full stack development, cloud infrastructure, and AI systems, I focus on delivering production-grade applications that combine technical excellence with innovative problem-solving.
+
+Committed to continuous learning, staying ahead of technological trends, and building solutions that matter.
+
+---
 
 <div align="center">
 
 ```
-╔══════════════════════════════════════════════════════════════════════════════════════════╗
-║                                                                                          ║
-║   💻  Role        :  Senior Full Stack Developer | App Developer | AI Engineer          ║
-║   🌍  Location    :  Available Worldwide (Remote)                                       ║
-║   🧠  Focus       :  Web, Mobile, Desktop, AI, UI/UX                                    ║
-║   ⚡  Passion      :  Building products that impact millions of lives                    ║
-║   📚  Philosophy   :  Clean Code • Scalable Architecture • User-First Design            ║
-║   🎯  Mission      :  Turning visionary ideas into production-ready reality              ║
-║                                                                                          ║
-╚══════════════════════════════════════════════════════════════════════════════════════════╝
+╔════════════════════════════════════════════════════════════╗
+║                                                            ║
+║     FULL STACK ENGINEER | AI SYSTEMS | DEVOPS EXPERT      ║
+║                                                            ║
+║     Designing & Building the Future of Technology         ║
+║                                                            ║
+╚════════════════════════════════════════════════════════════╝
 ```
 
-</div>
+**Status:** Open for challenging projects and collaborations  
+**Focus:** Full Stack SaaS, AI Systems, Cloud Infrastructure
 
-<div align="center">
+---
 
-<table>
-  <tr>
-    <td width="50%">
-      
-**🎨 Frontend Expertise**
-```
-Crafting pixel-perfect, responsive interfaces
-with modern frameworks and design systems.
-Specialized in React, Next.js, Vue, Angular
-with component libraries like shadcn/ui,
-DaisyUI, and Material-UI.
-```
-
-**⚙️ Backend Mastery**
-```
-Architecting robust APIs and server-side
-solutions using Node.js, Python, .NET, and
-Laravel. Focused on performance, security,
-and scalability.
-```
-      
-    </td>
-    <td width="50%">
-      
-**📱 Mobile Development**
-```
-Building cross-platform mobile experiences
-with Flutter, React Native, and Kotlin.
-Native performance with single codebase
-efficiency.
-```
-
-**🤖 AI Integration**
-```
-Integrating cutting-edge AI/ML capabilities
-into applications. From intelligent chatbots
-to predictive analytics and automation.
-```
-
-**🖥️ Desktop Applications**
-```
-Creating powerful cross-platform desktop apps
-with Electron and .NET Framework.
-```
-      
-    </td>
-  </tr>
-</table>
+*Last Updated: 2024* | *Always Learning & Building*
 
 </div>
-
-<br />
-
-<!-- ╔═══════════════════════════════════════════════════════════════════════════════╗ -->
-<!-- ║                       TECH STACK VISUALIZATION                                ║ -->
-<!-- ╚═══════════════════════════════════════════════════════════════════════════════╝ -->
-
-<h2 align="center">
-  <img src="https://media2.giphy.com/media/jSKBmKkvo2dPQQtsR1/giphy.gif" width="35">
-  Tech Stack & Arsenal
-  <img src="https://media2.giphy.com/media/jSKBmKkvo2dPQQtsR1/giphy.gif" width="35">
-</h2>
-
-<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
-<!--                        FRONTEND TECHNOLOGIES                                   -->
-<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
-
-<h3 align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="25"> 
-  Frontend Technologies
-</h3>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,vue,angular,html,css,js,ts,tailwind,sass,bootstrap&theme=dark&perline=11" alt="Frontend" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/shadcn/ui-000000?style=for-the-badge&logo=shadcnui&logoColor=white" alt="shadcn/ui" />
-  <img src="https://img.shields.io/badge/DaisyUI-5A0EF8?style=for-the-badge&logo=daisyui&logoColor=white" alt="DaisyUI" />
-  <img src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=mui&logoColor=white" alt="MUI" />
-  <img src="https://img.shields.io/badge/Framer_Motion-black?style=for-the-badge&logo=framer&logoColor=white" alt="Framer Motion" />
-  <img src="https://img.shields.io/badge/Three.js-black?style=for-the-badge&logo=three.js&logoColor=white" alt="Three.js" />
-  <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" alt="Redux" />
-</p>
-
-<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
-<!--                        BACKEND TECHNOLOGIES                                    -->
-<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
-
-<h3 align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" width="25"> 
-  Backend Technologies
-</h3>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,python,go,express,fastapi,graphql,postgresql,mongodb,mysql,redis,firebase,supabase&theme=dark&perline=12" alt="Backend" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET" />
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
-  <img src="https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white" alt="Socket.io" />
-  <img src="https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="REST API" />
-  <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" alt="GraphQL" />
-</p>
-
-<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
-<!--                        MOBILE TECHNOLOGIES                                     -->
-<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
-
-<h3 align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Mobile%20Phone.png" width="25"> 
-  Mobile Development
-</h3>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,react,kotlin,swift,dart,androidstudio&theme=dark&perline=8" alt="Mobile" />
-</p>
-
-<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
-<!--                        DESKTOP TECHNOLOGIES                                    -->
-<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
-
-<h3 align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Desktop%20Computer.png" width="25"> 
-  Desktop Development
-</h3>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=electron,cs,dotnet&theme=dark&perline=8" alt="Desktop" />
-</p>
-
-<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
-<!--                        AI & ML TECHNOLOGIES                                    -->
-<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
-
-<h3 align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Robot.png" width="25"> 
-  AI / Machine Learning
-</h3>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv&theme=dark&perline=8" alt="AI" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" />
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain" />
-  <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
-</p>
-
-<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
-<!--                        DEVOPS & TOOLS                                          -->
-<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
-
-<h3 align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" width="25"> 
-  DevOps & Tools
-</h3>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,docker,kubernetes,aws,gcp,vercel,netlify,nginx,linux,vscode,figma&theme=dark&perline=12" alt="DevOps" />
-</p>
-
-<br />
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="Rainbow Divider" />
-</div>
-
-<br />
-
-<!-- ╔═══════════════════════════════════════════════════════════════════════════════╗ -->
-<!-- ║                      GITHUB ANALYTICS DASHBOARD                               ║ -->
-<!-- ╚═══════════════════════════════════════════════════════════════════════════════╝ -->
-
-<h2 align="center">
-  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">
-  GitHub Analytics Dashboard
-  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">
-</h2>
-
-<br />
-
-<div align="center">
-
-<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
-<!--                        MAIN STATS CARDS                                        -->
-<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
-
-<img src="https://github-readme-stats.vercel.app/api?username=muhammadyahya&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=667eea&icon_color=f093fb&text_color=c9d1d9&border_radius=20&include_all_commits=true&count_private=true&custom_title=⚡%20GitHub%20Statistics" width="49%" alt="GitHub Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadyahya&layout=donut&theme=radical&hide_border=true&bg_color=0D1117&title_color=667eea&text_color=c9d1d9&border_radius=20&langs_count=10&custom_title=💻%20Most%20Used%20Languages" width="49%" alt="Top Languages" />
-
-<br /><br />
-
-<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
-<!--                        STREAK STATS                                            -->
-<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=muhammadyahya&theme=radical&hide_border=true&background=0D1117&stroke=667eea&ring=f093fb&fire=f5576c&currStreakNum=ffffff&sideNums=c9d1d9&currStreakLabel=667eea&sideLabels=c9d1d9&dates=8b949e&border_radius=20" width="90%" alt="Streak Stats" />
-
-<br /><br />
-
-<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
-<!--                        ACTIVITY GRAPH                                          -->
-<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=muhammadyahya&bg_color=0D1117&color=667eea&line=f093fb&point=f5576c&area=true&hide_border=true&custom_title=📈%20Contribution%20Activity%20Graph" width="95%" alt="Activity Graph" />
-
-</div>
-
-<br />
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="Rainbow Divider" />
-</div>
-
-<br />
-
-<!-- ╔═══════════════════════════════════════════════════════════════════════════════╗ -->
-<!-- ║                         ACHIEVEMENTS & TROPHIES                               ║ -->
-<!-- ╚═══════════════════════════════════════════════════════════════════════════════╝ -->
-
-<h2 align="center">
-  <img src="https://media.giphy.com/media/QBw33dFlgxnzXSAS27/giphy.gif" width="35">
-  Achievements & Trophies
-  <img src="https://media.giphy.com/media/QBw33dFlgxnzXSAS27/giphy.gif" width="35">
-</h2>
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=muhammadyahya&theme=radical&no-frame=true&no-bg=false&bg_color=0D1117&column=8&margin-w=10&margin-h=10&rank=S,AAA,AA,A,B,C" width="100%" alt="Trophies" />
-
-</div>
-
-<br />
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="Rainbow Divider" />
-</div>
-
-<br />
-
-<!-- ╔═══════════════════════════════════════════════════════════════════════════════╗ -->
-<!-- ║                        FEATURED PROJECTS SHOWCASE                             ║ -->
-<!-- ╚═══════════════════════════════════════════════════════════════════════════════╝ -->
-
-<h2 align="center">
-  <img src="https://media.giphy.com/media/juua9i2c2fA0QsoQWZ/giphy.gif" width="35">
-  Featured Projects
-  <img src="https://media.giphy.com/media/juua9i2c2fA0QsoQWZ/giphy.gif" width="35">
-</h2>
-
-<br />
-
-<div align="center">
-
-<!-- Project 1 -->
-<a href="#">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=muhammadyahya&repo=enterprise-platform&theme=radical&hide_border=true&bg_color=0D1117&title_color=667eea&icon_color=f093fb&text_color=c9d1d9&border_radius=15&description_lines_count=2" width="49%" alt="Enterprise Platform" />
-</a>
-
-<!-- Project 2 -->
-<a href="#">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=muhammadyahya&repo=ai-analytics-dashboard&theme=radical&hide_border=true&bg_color=0D1117&title_color=667eea&icon_color=f093fb&text_color=c9d1d9&border_radius=15&description_lines_count=2" width="49%" alt="AI Dashboard" />
-</a>
-
-<br /><br />
-
-<!-- Project 3 -->
-<a href="#">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=muhammadyahya&repo=mobile-commerce-app&theme=radical&hide_border=true&bg_color=0D1117&title_color=667eea&icon_color=f093fb&text_color=c9d1d9&border_radius=15&description_lines_count=2" width="49%" alt="Mobile Commerce" />
-</a>
-
-<!-- Project 4 -->
-<a href="#">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=muhammadyahya&repo=design-system-library&theme=radical&hide_border=true&bg_color=0D1117&title_color=667eea&icon_color=f093fb&text_color=c9d1d9&border_radius=15&description_lines_count=2" width="49%" alt="Design System" />
-</a>
-
-</div>
-
-<br />
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="Rainbow Divider" />
-</div>
-
-<br />
-
-<!-- ╔═══════════════════════════════════════════════════════════════════════════════╗ -->
-<!-- ║                          SERVICES MATRIX                                      ║ -->
-<!-- ╚═══════════════════════════════════════════════════════════════════════════════╝ -->
-
-<h2 align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" width="30">
-  Services I Deliver
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" width="30">
-</h2>
-
-<div align="center">
-
-```
-╔═════════════════════════════╦═════════════════════════════╦═════════════════════════════╗
-║                             ║                             ║                             ║
-║   🌐 WEB DEVELOPMENT        ║   📱 MOBILE DEVELOPMENT     ║   🖥️ DESKTOP APPLICATIONS   ║
-║   ─────────────────         ║   ────────────────────      ║   ─────────────────────     ║
-║   • SPA & PWA               ║   • iOS Applications        ║   • Cross-Platform Apps     ║
-║   • SSR & SSG Solutions     ║   • Android Applications    ║   • Internal Tools          ║
-║   • E-Commerce Platforms    ║   • React Native Apps       ║   • Admin Dashboards        ║
-║   • SaaS Applications       ║   • Flutter Applications    ║   • Automation Tools        ║
-║   • CMS Development         ║   • App Store Deployment    ║   • Legacy Migration        ║
-║   • API Integration         ║   • Push Notifications      ║   • Offline-First Apps      ║
-║                             ║                             ║                             ║
-╠═════════════════════════════╬═════════════════════════════╬═════════════════════════════╣
-║                             ║                             ║                             ║
-║   🤖 AI DEVELOPMENT         ║   🎨 UI/UX DESIGN           ║   🔧 TECH CONSULTING        ║
-║   ─────────────────         ║   ──────────────────        ║   ────────────────────      ║
-║   • AI Chatbots             ║   • User Interface Design   ║   • Architecture Review     ║
-║   • NLP Solutions           ║   • User Experience Audit   ║   • Performance Audit       ║
-║   • Predictive Analytics    ║   • Design Systems          ║   • Code Optimization       ║
-║   • Computer Vision         ║   • Wireframing & Prototype ║   • Security Assessment     ║
-║   • Process Automation      ║   • Brand Identity          ║   • DevOps Setup            ║
-║   • LLM Integration         ║   • Micro-Interactions      ║   • Team Mentorship         ║
-║                             ║                             ║                             ║
-╚═════════════════════════════╩═════════════════════════════╩═════════════════════════════╝
-```
-
-</div>
-
-<br />
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="Rainbow Divider" />
-</div>
-
-<br />
-
-<!-- ╔═══════════════════════════════════════════════════════════════════════════════╗ -->
-<!-- ║                        CURRENT FOCUS & ROADMAP                                ║ -->
-<!-- ╚═══════════════════════════════════════════════════════════════════════════════╝ -->
-
-<h2 align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bullseye.png" width="30">
-  Current Focus & Roadmap
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bullseye.png" width="30">
-</h2>
-
-<div align="center">
-
-| Focus Area | Progress | Status |
-|:-----------|:--------:|:------:|
-| 🤖 **AI-Powered Applications** | `████████████████████░░░░░` **82%** | 🔥 Active |
-| 🌐 **Full-Stack Enterprise SaaS** | `██████████████████████░░░` **90%** | 🚀 Shipping |
-| 📱 **Advanced Mobile Architecture** | `███████████████████░░░░░░` **78%** | ⚡ In Progress |
-| 🎨 **Design System Engineering** | `█████████████████████░░░░` **86%** | 🔥 Active |
-| ⚡ **Performance Optimization** | `██████████████████░░░░░░░` **72%** | 📚 Learning |
-| 🧠 **LLM & Generative AI** | `████████████████░░░░░░░░░` **65%** | 🌱 Growing |
-
-</div>
-
-<br />
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="Rainbow Divider" />
-</div>
-
-<br />
-
-<!-- ╔═══════════════════════════════════════════════════════════════════════════════╗ -->
-<!-- ║                         CONTRIBUTION SNAKE ANIMATION                          ║ -->
-<!-- ╚═══════════════════════════════════════════════════════════════════════════════╝ -->
-
-<h2 align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Snake.png" width="35">
-  Contribution Graph
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Snake.png" width="35">
-</h2>
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/muhammadyahya/muhammadyahya/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/muhammadyahya/muhammadyahya/output/github-contribution-grid-snake.svg" />
-  <img alt="Contribution Snake" src="https://raw.githubusercontent.com/muhammadyahya/muhammadyahya/output/github-contribution-grid-snake-dark.svg" width="100%" />
-</picture>
-
-</div>
-
-<br />
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="Rainbow Divider" />
-</div>
-
-<br />
-
-<!-- ╔═══════════════════════════════════════════════════════════════════════════════╗ -->
-<!-- ║                           QUOTE SECTION                                       ║ -->
-<!-- ╚═══════════════════════════════════════════════════════════════════════════════╝ -->
-
-<h2 align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Speech%20Balloon.png" width="30">
-  Dev Quote of the Day
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Speech%20Balloon.png" width="30">
-</h2>
-
-<div align="center">
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&border=false&bg_color=0D1117&quote_color=667eea&author_color=f093fb)
-
-</div>
-
-<br />
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="Rainbow Divider" />
-</div>
-
-<br />
-
-<!-- ╔═══════════════════════════════════════════════════════════════════════════════╗ -->
-<!-- ║                         CONNECT WITH ME                                       ║ -->
-<!-- ╚═══════════════════════════════════════════════════════════════════════════════╝ -->
-
-<h2 align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" width="35">
-  Let's Connect & Collaborate
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" width="35">
-</h2>
-
-<br />
-
-<div align="center">
-
-**I'm always excited to discuss new projects, creative ideas, or opportunities to be part of your vision.**
-
-<br />
-
-<a href="https://linkedin.com/in/muhammadyahya" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5&color=0077B5" alt="LinkedIn" />
-</a>
-<a href="https://twitter.com/muhammadyahya" target="_blank">
-  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=1DA1F2&color=1DA1F2" alt="Twitter" />
-</a>
-<a href="mailto:muhammad.yahya@example.com" target="_blank">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836&color=D14836" alt="Gmail" />
-</a>
-<a href="https://muhammadyahya.dev" target="_blank">
-  <img src="https://img.shields.io/badge/Portfolio-667EEA?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=667EEA&color=667EEA" alt="Portfolio" />
-</a>
-<a href="https://dev.to/muhammadyahya" target="_blank">
-  <img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white&labelColor=0A0A0A&color=0A0A0A" alt="Dev.to" />
-</a>
-
-<br /><br />
-
-<a href="https://discord.gg/muhammadyahya" target="_blank">
-  <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=5865F2&color=5865F2" alt="Discord" />
-</a>
-<a href="https://stackoverflow.com/users/muhammadyahya" target="_blank">
-  <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white&labelColor=FE7A16&color=FE7A16" alt="Stack Overflow" />
-</a>
-<a href="https://medium.com/@muhammadyahya" target="_blank">
-  <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white&labelColor=12100E&color=12100E" alt="Medium" />
-</a>
-<a href="https://t.me/muhammadyahya" target="_blank">
-  <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&labelColor=2CA5E0&color=2CA5E0" alt="Telegram" />
-</a>
-<a href="https://youtube.com/@muhammadyahya" target="_blank">
-  <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=FF0000&color=FF0000" alt="YouTube" />
-</a>
-
-<br /><br /><br />
-
-<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
-<!--                        AVAILABILITY STATUS                                     -->
-<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
-
-| 💼 Freelance Projects | 🚀 Full-Time Roles | 🤝 Collaboration | 📧 Response Time |
-|:---------------------:|:------------------:|:----------------:|:----------------:|
-| ✅ **Available** | ✅ **Open** | ✅ **Welcome** | ⚡ **Within 24h** |
-
-</div>
-
-<br />
-
-<!-- ╔═══════════════════════════════════════════════════════════════════════════════╗ -->
-<!-- ║                         SPOTIFY NOW PLAYING                                   ║ -->
-<!-- ╚═══════════════════════════════════════════════════════════════════════════════╝ -->
-
-<div align="center">
-
-[![Spotify](https://spotify-now-playing-muhammadyahya.vercel.app/api/spotify)](https://open.spotify.com/user/muhammadyahya)
-
-</div>
-
-<br />
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="Rainbow Divider" />
-</div>
-
-<br />
-
-<!-- ╔═══════════════════════════════════════════════════════════════════════════════╗ -->
-<!-- ║                           SUPPORT SECTION                                     ║ -->
-<!-- ╚═══════════════════════════════════════════════════════════════════════════════╝ -->
-
-<h2 align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Coffee.png" width="30">
-  Support My Work
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Coffee.png" width="30">
-</h2>
-
-<div align="center">
-
-If you appreciate my work and want to support me, consider buying me a coffee!
-
-<br /><br />
-
-<a href="https://www.buymeacoffee.com/muhammadyahya" target="_blank">
-  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy Me A Coffee" />
-</a>
-
-<br /><br />
-
-<a href="https://www.patreon.com/muhammadyahya" target="_blank">
-  <img src="https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white" alt="Patreon" />
-</a>
-<a href="https://www.ko-fi.com/muhammadyahya" target="_blank">
-  <img src="https://img.shields.io/badge/Ko--fi-FF5E5B?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Ko-fi" />
-</a>
-
-</div>
-
-<br />
-
-<!-- ╔═══════════════════════════════════════════════════════════════════════════════╗ -->
-<!-- ║                         FOOTER / CLOSING                                      ║ -->
-<!-- ╚═══════════════════════════════════════════════════════════════════════════════╝ -->
-
-<div align="center">
-
-<!-- Animated Footer Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,25&height=150&section=footer&animation=fadeIn&fontAlignY=70&desc=Crafted%20with%20%E2%9D%A4%EF%B8%8F%20by%20Muhammad%20Yahya&descSize=15&descAlignY=85" width="100%" alt="Footer" />
-
-<br />
-
-<!-- Footer Typing Animation -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=1000&color=43E97B&center=true&vCenter=true&width=600&lines=Thanks+for+stopping+by!+%F0%9F%91%8B;Let's+build+something+extraordinary+together+%F0%9F%9A%80;The+best+code+is+the+code+you+never+have+to+write+%F0%9F%92%A1" alt="Footer Quote" />
-</a>
-
-<br /><br />
-
-<!-- Footer Signature -->
-
-```
-   _____                            _         _       _     _             
-  / ____|                          | |       | |     | |   (_)            
- | |     _   _ _ __ ___   __ _ _ __| |_  __ _| |__   | |__  _ _ __   __ _ 
- | |    | | | | '_ ` _ \ / _` | '__| __|/ _` | '_ \  | '_ \| | '_ \ / _` |
- | |____| |_| | | | | | | (_| | |  | |_| (_| | |_) | | | | | | | | | (_| |
-  \_____|\__,_|_| |_| |_|\__,_|_|   \__|\__,_|_.__/  |_| |_|_|_| |_|\__, |
-                                                                     __/ |
-                                                                    |___/ 
-```
-
-<br />
-
-**Made with** ❤️ **+** ☕ **+** 🎵 **by Muhammad Yahya**
-
-<br />
-
-<!-- Visitor Counter -->
-<img src="https://komarev.com/ghpvc/?username=muhammadyahya&label=TOTAL+VISITORS&color=43e97b&style=flat-square&logo=eye&logoColor=white" alt="Total Visitors" />
-
-<br /><br />
-
-**⭐ Star my repositories if you find them helpful! ⭐**
-
-</div>
-
-<!-- ╔═══════════════════════════════════════════════════════════════════════════════╗ -->
-<!-- ║                         CREDITS & SOURCES                                     ║ -->
-<!-- ╚═══════════════════════════════════════════════════════════════════════════════╝ -->
-
-<!--
-  ╔═══════════════════════════════════════════════════════════════════════════════╗
-  ║  Powered By:                                                                 ║
-  ║  • github-readme-stats.vercel.app       - Statistics Cards                   ║
-  ║  • github-readme-streak-stats           - Streak Tracker                     ║
-  ║  • github-readme-activity-graph         - Activity Graph                     ║
-  ║  • github-profile-trophy.vercel.app     - Achievements                       ║
-  ║  • github-contribution-grid-snake       - Snake Animation                    ║
-  ║  • readme-typing-svg.demolab.com        - Typing Text                        ║
-  ║  • skillicons.dev                       - Tech Icons                         ║
-  ║  • shields.io                           - Custom Badges                      ║
-  ║  • capsule-render.vercel.app            - Header/Footer Banners              ║
-  ║  • quotes-github-readme.vercel.app      - Developer Quotes                   ║
-  ║  • Animated Fluent Emojis               - Animated Icons                     ║
-  ╚═══════════════════════════════════════════════════════════════════════════════╝
--->
