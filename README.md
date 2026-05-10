@@ -61,8 +61,7 @@ const Muhammad_Yahya = {
 <br clear="right"/>
 
 <div align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=muhammadyahya&show_icons=true&theme=midnight-purple&border_radius=14&bg_color=0d1117&title_color=a78bfa&icon_color=6366f1&text_color=c9d1d9&border_color=30363d&hide_border=false" height="175" alt="GitHub Stats" />
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs?username=muhammadyahya&layout=compact&langs_count=10&theme=midnight-purple&border_radius=14&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9&border_color=30363d" height="175" alt="Top Languages" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=muhammadyahya&show_icons=true&theme=midnight-purple&border_radius=14&bg_color=0d1117&title_color=a78bfa&icon_color=6366f1&text_color=c9d1d9&border_color=30363d&hide_border=false" width="600" alt="GitHub Stats" />
 </div>
 
 ---
@@ -702,7 +701,7 @@ Intelligent features powered by GPT-5.5, Claude 4.7, and Gemini 3.1 Pro — from
 <br/>
 
 <!-- Pac-Man Contribution Graph (GitHub Marketplace Action) -->
-<!-- 💡 Setup Tip: Add the 'abozanona/pacman-contribution-graph' action to your repository workflows so it generates the SVG below! -->
-<img src="https://raw.githubusercontent.com/muhammadyahya/muhammadyahya/output/pacman-contribution-graph.svg" alt="Pac-Man Contribution Graph" width="100%" />
+<!-- 💡 IMPORTANT: I am displaying a live working example below. To show YOUR stats, you MUST run the 'abozanona/pacman-contribution-graph' action in your repo, then change 'abozanona' to 'muhammadyahya' in the URL! -->
+<img src="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph.svg" alt="Pac-Man Contribution Graph" width="100%" />
 
 </div>
